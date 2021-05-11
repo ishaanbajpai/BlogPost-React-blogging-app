@@ -28,6 +28,12 @@
       "body": "This is body of third blog",
       "author": "yoshi",
       "id": 5
+    },
+    {
+      "title": "Fourth blog",
+      "body": "This is fourth blog",
+      "author": "yoshi",
+      "id": 6
     }
   ]
 }
